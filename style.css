@@ -2,7 +2,7 @@
 
 :root {
   --green: #13723c;
-  --black: #2c2c54;
+  --black: #1a1a4f;
   --darkgreen: #1e8349;
 }
 
@@ -245,7 +245,7 @@ section {
 
 .banner-container .banner .content p {
   font-size: 2rem;
-  color: var(--darkgreen);
+  color: #fff;
 }
 
 .banner-container .banner:hover img {
@@ -422,7 +422,7 @@ section {
 }
 
 .deal {
-  background: url(deal-bg1.jpg) no-repeat;
+  background: url(./folder/deal-bg1.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   padding-top: 7rem;
@@ -509,7 +509,7 @@ section {
 }
 
 .newsletter {
-  background: url(newsletter-bg.jpg) no-repeat;
+  background: url(./folder/newsletter-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   text-align: center;
